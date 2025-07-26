@@ -14,10 +14,10 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'  # your node version
+          node-version: '18'
 
       - name: Install dependencies
         run: npm install
 
       - name: Run scraper
-        run: node your-scraper-file.js
+        run: node .
