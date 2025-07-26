@@ -26,8 +26,6 @@ A Node.js script that fetches RSS feeds from fraudoftheday.com and stores articl
    ```
 
 3. **MongoDB Connection Options:**
-   - **Local MongoDB:** `mongodb://localhost:27017/your_database_name`
-   - **MongoDB Atlas:** `mongodb+srv://username:password@cluster.mongodb.net/your_database_name`
 
 ## Usage
 
